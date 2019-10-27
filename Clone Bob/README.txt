@@ -1,9 +1,9 @@
 We are Clone Bob for Arthathon 2019.
 
 Members: Thomas Hsiao, Michael Faber, , Michael Koren, Adeeb Gmal.
+Dataset: Atlas
 
 Overview: We designed and created a graphic to visualize the tissue distribution of clones as their clonal trees grow.
-Dataset: Atlas
 
 Progress: First, our code takes the "sequences" table from the Lp13 database and collapses its sequences using the "collapse" table (also
 from the Lp13 database) and also removed all subjects except for D207 (subject 8). Next, our code iterates through a clone's json tree 
