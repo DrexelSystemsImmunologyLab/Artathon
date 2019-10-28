@@ -5,7 +5,7 @@ Members: Thomas Hsiao, Michael Faber, , Michael Koren, Adeeb Gmal.
 Dataset: Atlas
 
 Files:
-  graphics: images used to make PowerPoint animation.
+  Graphics: Images used to make PowerPoint animation.
   Animated Bar Graph Script.py: Python script for making an animated bar graph using Plotly.
   Animated_Bar_1.html: The animated bar graph.
   Animation.pptx: The PowerPoint animation used for the presentation.
@@ -19,7 +19,7 @@ from the Lp13 database) and also removed all subjects except for D207 (subject 8
 (from the "clones" table) and labels each sequence with the tree layer it is found in.
 
 Having labeled each sequence with where it is found in its tree, we made a bar graph that plots how many sequences are found in
-each tissue at a given tree layer. Since we did not have enough time to actually make the visualization, made a PowerPoint animation 
+each tissue at a given tree layer. Since we did not have enough time to actually make the visualization, we made a PowerPoint animation 
 to demonstrate our goal. The animation, which is consistent with the real data, shows circles (the circles represent the clone 
 in the tissues, and its size represents how many sequences are in the circle) migrating through the body as time, or tree layer, progresses.
 
