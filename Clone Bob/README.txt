@@ -1,7 +1,16 @@
 We are Clone Bob for Arthathon 2019.
 
 Members: Thomas Hsiao, Michael Faber, , Michael Koren, Adeeb Gmal.
+
 Dataset: Atlas
+
+Files:
+  graphics: images used to make PowerPoint animation.
+  Animated Bar Graph Script.py: Python script for making an animated bar graph using Plotly.
+  Animated_Bar_1.html: The animated bar graph.
+  Animation.pptx: The PowerPoint animation used for the presentation.
+  Collapse and Label Sequences Script.py: Script for collapsing sequences and labeling them with the tree layer they're found in.
+  
 
 Overview: We designed and created a graphic to visualize the tissue distribution of clones as their clonal trees grow.
 
