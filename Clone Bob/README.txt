@@ -1,4 +1,4 @@
-We are Clone Bob for Arthathon 2019.
+We are Clone Bob for Arthathon 2019!
 
 Members: Thomas Hsiao, Michael Faber, , Michael Koren, Adeeb Gmal.
 
