@@ -1,0 +1,133 @@
+/*main body*/
+html,body {
+background-color:#D3DFD5;
+height: 100%;
+ overflow-y:hidden;
+}
+
+
+#generalContainer{
+	background-color: lightgray;
+}
+
+
+
+
+
+
+
+
+#app1{
+	height: 100%;
+}
+
+.nav-link {
+    font-weight: bold;
+    width:120px;
+   
+}
+
+
+#welcomeLabel{
+	color:white;
+	font-weight: bold;
+}
+#searchbar{
+	width:400px;
+}
+
+
+
+
+.contentDiv{
+	 border: 1px solid black;
+	 border-radius: 25px;
+	 margin-right:5px;
+	 margin-left:5px;
+
+  flex-wrap: wrap;
+  
+}
+#contentDiv1{
+    height:95%;
+	margin-bottom:10px;
+}
+#contentDiv2{
+	height:95%;
+	margin-bottom:10px;
+}
+.contentRow{
+	height: 90%;
+	margin-top:10px;
+	padding-bottom:10px;
+}
+.innerContentRow{
+	 margin-right:5px;
+	 margin-left:5px;
+	  margin-top:5px;
+	 margin-bottom:5px;
+	 display: flex;
+	 display: -webkit-flex;
+     flex-wrap: wrap;
+  
+}
+.rowWithBorder{
+	border-top: 1px solid black;
+	
+}
+
+#generalContainer{
+
+	width:99%!important;
+	height:90%!important;
+}
+
+
+.text-center {
+   text-align:center
+}
+.center-block {
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+}
+
+
+.contentButton{
+	height:40px;
+	
+}
+
+
+
+/************************************app1 vue div and search button********************************** */
+
+
+#searchInput{
+	width: 15%;
+	height: 35px;
+	text-align:center;
+	
+	 border: 1px solid #D5DBD7;
+	margin-bottom:10px;
+
+}
+#searchInputField{
+	width:80%;
+	height:35px;
+}
+[v-cloak] {
+  display: none;
+}
+
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #F5F5F5;
+  
+} 
+
+
+
